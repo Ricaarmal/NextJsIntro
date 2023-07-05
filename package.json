@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
-    "build":"next build",
-    "start":"next"
+    "build": "next build",
+    "start": "next"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +17,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.3",
+    "@types/react": "18.2.14",
+    "typescript": "5.1.6"
   }
 }
